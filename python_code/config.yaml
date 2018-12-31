@@ -1,0 +1,12 @@
+n_repetitions: 1
+simulation_params:
+    carrying_capacity: 10
+    birth_rate: 1.8
+    prob_migration: 0.4
+    n_rows: 25
+    n_cols: 100
+mutation_locations:
+    start: 80
+    stop: 100
+    step: 10
+ 
